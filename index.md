@@ -10,7 +10,7 @@ Project Campfire is a story driven isometric RPG where you play as the final sur
 
 ## Current Gameplay Mechanics
 
-| .        | .         |
+|         |          |
 |:-------------|:------------------|
 | ![gamegrids](https://raw.githubusercontent.com/YortA/games/main/imgs/gamegrids.png) Grid-based movement system similar to Diablo 1 | ![gamechaseplayer](https://raw.githubusercontent.com/YortA/games/main/imgs/gamechaseplayer.png) Enemies aggro and chase player |
 | ![gamedetection](https://raw.githubusercontent.com/YortA/games/main/imgs/gamedetection.png) Enemies have movement, sight, and sound aggro behavior | ![gameinteracts](https://raw.githubusercontent.com/YortA/games/main/imgs/gameinteracts.png) Multiple interactable props (doors, shrines, etc.) |
@@ -18,3 +18,10 @@ Project Campfire is a story driven isometric RPG where you play as the final sur
 
 
 ## In-progress/Upcoming mechanics
+
+*   Puzzles
+*   Traps
+*   Stealth
+*   Player Status Effects
+*   Quests
+*   Crafting
