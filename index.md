@@ -10,9 +10,9 @@ Project Campfire is a story driven isometric RPG where you play as the final sur
 
 ## Current Progress
 
-| head1        | head two          |
-|:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+|              |              |
+|:-------------|:-------------|
+| ![gamechaseplayer](https://github.com/YortA/games/blob/main/imgs/gamechaseplayer.png)           | good swedish |
+| out of stock | good and plen|
+| ok           |              |
+| ok           | good         |
