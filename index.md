@@ -17,8 +17,9 @@ Project Campfire is a story driven isometric RPG where you play as the final sur
 | ![gameinventory](https://raw.githubusercontent.com/YortA/games/main/imgs/gameinventory.png) Diablo-style inventory and items | |
 
 
-## In-progress/Upcoming mechanics
+## In progress
 
+*   Combat
 *   Puzzles
 *   Traps
 *   Stealth
