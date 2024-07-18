@@ -12,7 +12,6 @@ Project Campfire is a story driven isometric RPG where you play as the final sur
 
 |              |              |
 |:-------------|:-------------|
-| ![gamechaseplayer](https://raw.githubusercontent.com/YortA/games/main/imgs/gamechaseplayer.png)           | good swedish |
-| out of stock | good and plen|
-| ok           |              |
-| ok           | good         |
+| ![gamechaseplayer](https://raw.githubusercontent.com/YortA/games/main/imgs/gamechaseplayer.png) | ![gamegrids](https://raw.githubusercontent.com/YortA/games/main/imgs/gamegrids.png) |
+| ![gamedetection](https://raw.githubusercontent.com/YortA/games/main/imgs/gamedetection.png) | ![gameinteracts](https://raw.githubusercontent.com/YortA/games/main/imgs/gameinteracts.png) |
+| ![gameinventory](https://raw.githubusercontent.com/YortA/games/main/imgs/gameinventory.png) | |
